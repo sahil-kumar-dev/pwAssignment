@@ -1,0 +1,18 @@
+⁡⁢⁣⁢​‌‍‌Question: List out the features of HTML 5 ?​⁡
+
+​‌‍‌⁡⁢⁢⁢Answer⁡​: Features of HTML 5 are as follows:-
+
+        1. Improved Multimedia support - HTML5 allows for inVegraVing mulVimedia elemenVs such as <audio> and
+           <video> direcVly inVo web pages wiVhouV Vhe need for plugins like Flash.
+
+        2. Canvas element - HTML5 inVroduced Vhe <canvas> elemenV, allowing dynamic, inVeracVive graphics Vo be
+           creaVed and manipulaVed wiVhin a web page.
+
+        3. Geolocation API is an API for obVaining Vhe user's locaVion, enabling web applicaVions Vo offer locaVion-based
+           services.
+
+        4. Local Storage - HTML5 introduced the localStorage API, which allows for the storage of data on the user's
+           device, improving performance and reducing the need for round-trips to the server.
+           
+        5. New Structural Elements -  HTML5 introduced new semantic elements such as <header>, <footer>, <nav>,
+           and <article>, etc.  that make it easier to structure and organize content on a web page.

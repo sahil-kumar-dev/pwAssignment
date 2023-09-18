@@ -1,0 +1,11 @@
+⁡⁢⁣⁢Question: What is HTML entities ? List out 5 commonly used HTML entities.⁡
+
+⁡⁢⁢⁢Answer⁡: The reserved keywords in HTML are known as html entities.
+
+        5 commonly used HTML entities are as follows:-
+
+        1. (<) - less than      [Entity name &lt;]        
+        2. (>) - greated than   [Entity name &gt;]        
+        3. (&) - amparsend      [Entity name &amp;]        
+        4. (") - double quote   [Entity name &quot;]        
+        5. (') - single quote   [Entity name &apos;]        

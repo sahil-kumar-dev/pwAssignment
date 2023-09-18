@@ -1,0 +1,16 @@
+⁡⁢⁣⁢Question: List ant three ways which help us to improve the accessibility of HTML.⁡
+
+⁡⁢⁢⁢Answer⁡:Three ways to improve the accessibility of the HTML are as follows:-
+
+1. Image alternative text
+
+   Add a image descriptive alternative text to all the images using alt attribute.
+
+2. Making link descriptive
+
+   To make link descriptive in HTML you should add global title tag with the link description with it.
+
+3. Video and Audio Accessibility
+
+   Provide captions, transcripts, and audio descriptions for multimedia content. Ensure that video players are 
+   accessible and controlable with the keyboard.
